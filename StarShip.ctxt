@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StarShip
+comment1.params=name\ speed\ firePower
+comment1.target=StarShip(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=
+comment4.target=int\ getFirePower()
+comment5.params=
+comment5.target=void\ printShipDetails()
+numComments=6
